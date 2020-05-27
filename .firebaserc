@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "quickreact-f0974",
+    "travis": "travisproj-b8823"
+  }
+}
